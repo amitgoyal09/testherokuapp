@@ -7,7 +7,7 @@ Make sure you have [PHP](http://php.org/) and the [Heroku Toolbelt](https://tool
 
 ```sh
 git clone git@github.com:heroku/testherokuapp.git # or clone your own fork
-cd button-sample
+cd testherokuapp
 npm install
 npm start
 ```
