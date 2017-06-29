@@ -1,5 +1,5 @@
 # testherokuapp
-For Getting Contact List in a JSON Formatted outpur
+For Getting Contact List in a JSON Formatted output
 
 ## Running Locally
 
