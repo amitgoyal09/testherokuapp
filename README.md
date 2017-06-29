@@ -1,9 +1,9 @@
 # testherokuapp
-For Creating a App on Heroku Connect
+For Getting Contact List in a JSON Formatted outpur
 
 ## Running Locally
 
-Make sure you have [PHP](http://php.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
+Make sure you have [PHP] installed.
 
 ```sh
 git clone git@github.com:heroku/testherokuapp.git # or clone your own fork
