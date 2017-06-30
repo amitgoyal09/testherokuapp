@@ -1,7 +1,6 @@
 {
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/button-sample",
-  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "name": "TestHeroku App for JSON Output",
+  "description": "to return a JSON String for contacts",
+  "repository": "https://github.com/heroku/testherokuapp",
   "keywords": ["node", "express", "static"]
 }
