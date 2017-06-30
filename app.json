@@ -1,6 +1,12 @@
 {
-  "name": "TestHeroku App for JSON Output",
-  "description": "to return a JSON String for contacts",
-  "repository": "https://github.com/heroku/testherokuapp",
-  "keywords": ["node", "express", "static"]
+  "name": "testherokuspp",
+  "description": "JSON Return - Contacts",
+  "repository": "https://github.com/amitgoyal09/testherokuapp",
+  "success_url": "/setup.html",
+  "env": {
+    "PGSSLMODE": {
+      "description": "Require SSL for Postgres",
+      "value": "require"
+    }
+  }
 }
